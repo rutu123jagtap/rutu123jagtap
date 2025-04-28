@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🚀 **Django & React Developer | Full Stack Developer**
+- 🚀 **React Django & Developer | Full Stack Developer**
 - ⚡Tech Stack: React.js | Python | Django | DRF | Node.js | Next.js | Zustand | PL/SQL  
 - 🔭 Building APIs, optimizing queries, and handling data integrations
 - 💡 Love solving coding challenges & learning new technologies! 
